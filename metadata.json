@@ -1,0 +1,6 @@
+{
+  "name": "FieldLedger — Smart Farming Assistant",
+  "description": "Collaborative smart farming assistant and open-access agronomy database with live field telemetry, irrigation scheduling, and AI-powered crop diagnosis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
